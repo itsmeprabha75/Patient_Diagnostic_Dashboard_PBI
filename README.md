@@ -20,8 +20,9 @@ Detect abnormal diagnostic results
 Support proactive healthcare decision-making
 
 🏗️ Data Model
-
 The report is built using a star schema model.
+<img width="1135" height="719" alt="image" src="https://github.com/user-attachments/assets/bfc184b7-2899-46d0-be40-d7fa7f73ed6b" />
+
 
 Fact Table
 Fact_Patient (Patient_ID, Visit_ID, Risk_Level, Temperature, Weight, Symptoms)
@@ -100,10 +101,17 @@ This is generated using AI and demographic data; the results may not be fully ac
 
 ## **🖼️ Dashboard Preview**
 Page 1 – Overview
+<img width="1371" height="772" alt="PBD_Overview" src="https://github.com/user-attachments/assets/9ea26357-f53b-456b-89fd-3ebdd6ecacea" />
+
+
 
 Page 2 – Clinical Diagnostics
+<img width="1375" height="776" alt="PBD_ClinicalDiagnostic" src="https://github.com/user-attachments/assets/61171e85-f92a-47f1-8032-1967717c96e8" />
+
 
 Page 3 – Patient Details
+<img width="1376" height="765" alt="PBD_Details" src="https://github.com/user-attachments/assets/3f79dbfc-df9f-4079-bec3-3223ac8f6c54" />
+
 
 ## **👤 Author**
 
